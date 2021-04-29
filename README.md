@@ -10,3 +10,6 @@ https://github.com/AndyHuang1995/Image-Contrast-Enhancement
 
 dawnlh, Souhaib Attaiki
 https://github.com/dawnlh/low-light-image-enhancement-resources#he-based-methods
+
+## Images
+Images are sourced from Centers for Disease Control and Prevention (CDC) -  https://www.cdc.gov/
