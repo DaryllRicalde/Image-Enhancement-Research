@@ -1,0 +1,4 @@
+hand: https://phil.cdc.gov/Details.aspx?pid=16319
+x-ray1 : https://phil.cdc.gov/Details.aspx?pid=10185
+x-ray2 : https://phil.cdc.gov/Details.aspx?pid=21526
+pelvis : https://phil.cdc.gov/Details.aspx?pid=20255
